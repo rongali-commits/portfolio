@@ -1,7 +1,7 @@
 # 🌟 My Portfolio
 
 **A high-performance, responsive portfolio built with pure HTML/CSS/JavaScript**  
-🔗 **[Live Demo]([https://your-portfolio.netlify.app/](https://chaitanya-rongali-portfolio.netlify.app/))** | 
+🔗 **[Live Demo]((https://chaitanya-rongali-portfolio.netlify.app/))** | 
 
 ### 💻 Technical Stack  
 | Category       | Technologies Used               |
